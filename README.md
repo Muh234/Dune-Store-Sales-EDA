@@ -13,9 +13,9 @@ The goal is to uncover patterns, evaluate performance across dimensions like pro
 ---
 
 ##  Table of Contents
-- [Project Overview](#-project-overview)
-- [Tools & Libraries](#-tools--libraries)
-- [Data Cleaning & Preparation](#-data-cleaning--preparation)
+- [ Project Overview](#-project-overview)
+- [ Tools & Libraries](#-tools--libraries)
+- [ Data Cleaning & Preparation](#-data-cleaning--preparation)
 - [🔍 Exploratory Data Analysis](#-exploratory-data-analysis)
   - [🔸 Univariate Analysis](#-univariate-analysis)
   - [🔸 Bivariate Analysis](#-bivariate-analysis)
