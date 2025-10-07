@@ -1,4 +1,4 @@
-# 🏝️ Dune Store Data Exploratory Data Analysis
+#  Dune Store Data Exploratory Data Analysis
 
 ##  Project Overview
 This project presents an in-depth **Exploratory Data Analysis (EDA)** on Dune Store’s sales data.  
@@ -15,7 +15,7 @@ The goal is to uncover patterns, evaluate performance across dimensions like pro
 ##  Table of Contents
 - [Project Overview](#-project-overview)
 - [Tools & Libraries](#-tools--libraries)
-- [ Data Cleaning & Preparation](#-data-cleaning--preparation)
+- [Data Cleaning & Preparation](#-data-cleaning--preparation)
 - [🔍 Exploratory Data Analysis](#-exploratory-data-analysis)
   - [🔸 Univariate Analysis](#-univariate-analysis)
   - [🔸 Bivariate Analysis](#-bivariate-analysis)
@@ -25,7 +25,7 @@ The goal is to uncover patterns, evaluate performance across dimensions like pro
 
 ---
 
-##  Tools & Libraries
+## Tools & Libraries
 
 **Programming Language:** Python  
 
@@ -37,7 +37,7 @@ The goal is to uncover patterns, evaluate performance across dimensions like pro
 
 ---
 
-##  Data Cleaning & Preparation
+## Data Cleaning & Preparation
 The dataset underwent a comprehensive cleaning and preparation process to ensure data accuracy and quality.
 
 **Steps Taken:**
