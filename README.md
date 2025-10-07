@@ -20,8 +20,8 @@ The goal is to uncover patterns, evaluate performance across dimensions like pro
   - [🔸 Univariate Analysis](#-univariate-analysis)
   - [🔸 Bivariate Analysis](#-bivariate-analysis)
   - [🔸 Multivariate Analysis](#-multivariate-analysis)
-- [Key Insights Summary](#-key-insights-summary)
-- [Recommendations](#-recommendations)
+- [Key Insights Summary](#key-insights-summary)
+- [Recommendations](#recommendations)
 
 ---
 
