@@ -1,6 +1,6 @@
 # 🏝️ Dune Store Data Exploratory Data Analysis
 
-## 📘 Project Overview
+##  Project Overview
 This project presents an in-depth **Exploratory Data Analysis (EDA)** on Dune Store’s sales data.  
 The goal is to uncover patterns, evaluate performance across dimensions like product, customer demographics, and time, and derive **data-driven business insights** that support growth, marketing, and strategic decisions.
 
@@ -15,13 +15,13 @@ The goal is to uncover patterns, evaluate performance across dimensions like pro
 ##  Table of Contents
 - [Project Overview](#-project-overview)
 - [Tools & Libraries](#-tools--libraries)
-- [🧹 Data Cleaning & Preparation](#-data-cleaning--preparation)
+- [ Data Cleaning & Preparation](#-data-cleaning--preparation)
 - [🔍 Exploratory Data Analysis](#-exploratory-data-analysis)
   - [🔸 Univariate Analysis](#-univariate-analysis)
   - [🔸 Bivariate Analysis](#-bivariate-analysis)
   - [🔸 Multivariate Analysis](#-multivariate-analysis)
-- [💡 Key Insights Summary](#-key-insights-summary)
-- [🧭 Recommendations](#-recommendations)
+- [ Key Insights Summary](#-key-insights-summary)
+- [ Recommendations](#-recommendations)
 
 ---
 
@@ -107,7 +107,7 @@ Explored how multiple factors interact to shape outcomes.
 
 ---
 
-## 💡 Key Insights Summary
+##  Key Insights Summary
 
 | **Focus Area** | **Insight** | **Business Implication** |
 |----------------|-------------|---------------------------|
@@ -119,7 +119,7 @@ Explored how multiple factors interact to shape outcomes.
 
 ---
 
-## 🧭 Recommendations
+##  Recommendations
 
 Based on the findings, the following strategies are proposed:
 
