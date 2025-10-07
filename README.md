@@ -1,6 +1,6 @@
 #  Dune Store Data Exploratory Data Analysis
 
-##  Project Overview
+## Project Overview
 This project presents an in-depth **Exploratory Data Analysis (EDA)** on Dune Store’s sales data.  
 The goal is to uncover patterns, evaluate performance across dimensions like product, customer demographics, and time, and derive **data-driven business insights** that support growth, marketing, and strategic decisions.
 
